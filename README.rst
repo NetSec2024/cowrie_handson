@@ -1,7 +1,6 @@
 Cowrie
 ######
 
-
 Welcome to the Cowrie GitHub repository
 *****************************************
 
